@@ -1,0 +1,4 @@
+[submodule "Pragmatic-SAC/theme_prime"]
+	path = Pragmatic-SAC/theme_prime
+	url = git@github.com:Pragmatic-SAC/theme_prime.git
+	branch = 15.0
